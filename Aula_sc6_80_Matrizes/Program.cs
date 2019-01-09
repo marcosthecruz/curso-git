@@ -13,6 +13,7 @@ namespace Aula_sc6_80_Matrizes
             int n = int.Parse(Console.ReadLine());
 
             int[,] mat = new int[n, n];
+            
 
             for (int i = 0; i < n; i++)
             {
